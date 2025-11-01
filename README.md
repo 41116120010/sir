@@ -1,6 +1,6 @@
 ## DISCLAIMER
 Mohon Maaf atas Kekurangan dari Proyek ini dikarenakan Ketentuan dari Tugas Akhir dan Keterbatasan Waktu, Sehingga beberapa Rencana Tambahan Fitur Seperti :
-1. Fitur Booking Konsol = Memungkinkan Calon Penyewa dapat Membooking Konsol yang tersedia dengan Validasi Waktu (Sebelum Akses dan Batas Toko Tutup) dan Pembayaran Booking melalui QRIS yang Terintegrasi dengan TRIPay atau Midrans.
+1. Fitur Booking Konsol = Memungkinkan Calon Penyewa dapat Membooking Konsol yang tersedia dengan Validasi Waktu (Sebelum Akses dan Batas Toko Tutup) dan Pembayaran Booking melalui QRIS yang Terintegrasi dengan TRIPay atau Midtrans.
 2. Fitur Forgot Password.
 3. Beberapa Tambahan Proteksi untuk Keamanan.
 4. Billing yang Terkoneksi pada Perangkat IoT yang terhubung langsung ke TV (Operator hanya perlu Insert Transaksi maka TV akan Nyala, dan Jika Waktu Berakhir maka TV langsung Mati).
@@ -13,7 +13,7 @@ Belum dapat saya Lanjutkan karena Ujian Akhir Semester akan berlangsung dalam be
 # SISTEM INFORMASI RENTAL (SIR)
 Sistem Informasi Manajemen Rental PlayStation Berbasis Web - Ranah Playstation
 
-## Live Preview : https://dapiqun.web.id/
+## Live Preview : https://ranahplaystation.my.id/
 
 ## Akun Owner - Akun Operator - Akun Pengunjung
 ## Username : admin - operator - pengunjung
