@@ -13,12 +13,6 @@ Belum dapat saya Lanjutkan karena Ujian Akhir Semester akan berlangsung dalam be
 # SISTEM INFORMASI RENTAL (SIR)
 Sistem Informasi Manajemen Rental PlayStation Berbasis Web - Ranah Playstation
 
-## Live Preview : https://ranahplaystation.my.id/
-
-## Akun Owner - Akun Operator - Akun Pengunjung
-## Username : admin - operator - pengunjung
-## Password : admin - operator - pengunjung
-
 ## ❗ Masalah Nyata di Lapangan
 Berdasarkan observasi di daerah sekitar, banyak rental PS masih menggunakan catatan kertas (Termasuk Usaha Rental PS milik Tante Saya yang kebetulan Saya diamanahkan untuk menjadi Operator pada Rental tersebut), WhatsApp manual, atau bahkan hanya ingatan untuk mengelola transaksi. Ini menyebabkan:
 
