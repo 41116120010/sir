@@ -1,16 +1,16 @@
 <?php
 function kirimNotifikasiTelegram($pesan) {
-    $token = "7950642825:AAHZMUACwWkKr-0L4k3sJEJheqhqJzISmZQ";
-    $chat_id = "6886100368";
+    $token = "token";
+    $chat_id = "id_chat";
     $url = "https://api.telegram.org/bot$token/sendMessage?chat_id=$chat_id&text=" . urlencode($pesan);
 
     file_get_contents($url);
 }
 
 function kirimNotifikasiWhatsApp($pesan) {
-    $instanceId = "instance110465"; 
-    $token = "qpueirwz2hwnntsx"; 
-    $phone = "62895800403311"; 
+    $instanceId = "id_instance"; 
+    $token = "token"; 
+    $phone = "nomor_hp"; 
 
     $url = "https://api.ultramsg.com/$instanceId/messages/chat";
 
